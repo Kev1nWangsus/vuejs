@@ -103,6 +103,12 @@ var app = new Vue({
         link: 'https://github.com/Kev1nWangsus/Arduino_tft',
         pic: 'images/tetris.jpg',
         intro: 'Tetris game based on Teensy 3.2'
+      },
+      {
+        name: 'Re',
+        link: 're.html',
+        pic: 'images/2048.png',
+        intro: 'adventure text'
       }
     ]
   },
